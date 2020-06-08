@@ -1,6 +1,6 @@
 import os,time
 os.system('clear')
-gif = ["we.txt","wd.txt","wa.txt","ws.txt","wq.txt","wc.txt","wr.txt","wx.txt","wz.txt","wf.txt","wg.txt"]
+gif = ["we.txt","wd.txt","wa.txt","ws.txt","gf.txt","wq.txt","wg.txt","wc.txt","wf.txt","wr.txt","wx.txt","wz.txt","gh.txt","gd.txt"]
 def animator(gif,delay=1,repeat=10000):
 	frames = []
 	for wak in gif:
